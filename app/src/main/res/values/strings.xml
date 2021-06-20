@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoFinder</string>
+    <string name="beranda">Beranda</string>
+    <string name="coworker">CoWorker</string>
+    <string name="posting">Posting</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="profil">Profil</string>
+    <string name="error">Oops.. ada yang salah</string>
+    <string name="dummy_name">Brilian Ade Putra</string>
+    <string name="dummy_description">Im an Android Developer with 2 years of experience in developing Android Application.</string>
+    <string name="domisili">Domisili</string>
+    <string name="dummy_city">Malang</string>
+    <string name="kemampuan_aset">Kemampuan / Aset</string>
+    <string name="dummy_skill">Android Studio</string>
+    <string name="alamat">Alamat</string>
+    <string name="dummy_address">Jl Jombang gg 1B no 19, Malang</string>
+    <string name="kontak">Kontak</string>
+    <string name="dummy_contact">0895620084741</string>
+</resources>
